@@ -1,24 +1,25 @@
-# Projecte de Currículum en Línia by Pere Calderón u1987441
-
-## Anàlisi del Projecte
-
-### Arquitectura de la Informació
-La informació es distribueix en una estructura dividida en dues parts principals: una barra lateral 
-i una àrea de contingut principal. La barra lateral conté la informació personal més important, com ara el nom, 
-els contactes, els coneixements en idiomes de programació i les llengües parlades. 
-També s'hi troba un botó per activar el mode fosc, millorar l’accessibilitat i adaptar-se a les preferències visuals de l'usuari. 
-La secció principal inclou un resum de perfil, l'experiència acadèmica i la laboral, ordenades cronològicament per facilitar la lectura. 
-Aquesta estructura permet que l'usuari pugui visualitzar la informació de forma lògica i coherent, 
-destacant la seva experiència i habilitats tècniques.
-
-### Disseny Visual
-Les principals decisions de disseny es basen en la simplicitat i la claredat. 
-Es fa servir una paleta de colors neutral per mantenir l’atenció en la informació, 
-utilitzant un to verd fosc a la barra lateral i un fons gris clar en el cos de la pàgina. 
-Els títols tenen una jerarquia visual clara, amb el verd com a color destacat per ressaltar seccions importants. 
-Els botons i elements interactius, com el botó de mode fosc, inclouen transicions per oferir una experiència suau i agradable. 
-A més, el mode fosc transforma la barra lateral a negre i el fons a gris fosc, amb el text en blanc, per millorar 
-la llegibilitat i adaptar-se a ambients amb poca llum.
-
-### Enllaç al Projecte de Figma
 https://www.figma.com/design/062qgwAiKzjiV4ebyiK567/Entergable-2-Multimedia?m=auto&t=y9vwJxLV9nWJ3xGj-1
+
+
+# Online Curriculum Project by Pere Calderón u1987441
+
+## Analysis of the Project
+## Information Architecture
+The information is distributed in a structure divided into two main parts: a sidebar
+and a main content area. The sidebar contains the most important personal information, such as the name,
+contacts, knowledge in programming languages and spoken languages.
+There is also a button to enable dark mode, improve accessibility and adapt to the user's visual preferences.
+The main section includes a profile summary, academic and work experience, arranged chronologically to facilitate reading.
+This structure allows the user to visualize the information in a logical and coherent way,
+highlighting their experience and technical skills.
+
+## Visual Design
+The main design decisions are based on simplicity and clarity.
+A neutral color palette is used to keep attention on information,
+using a dark green tone in the sidebar and a light gray background in the body of the page.
+The titles have a clear visual hierarchy, with green as the highlighted color for highlighting important sections.
+Buttons and interactive elements, such as the dark mode button, include transitions to offer a smooth and enjoyable experience.
+In addition, dark mode transforms the sidebar to black and background to dark gray, with white text, to improve
+readability and adapt to environments with little light.
+
+## Link to the Figma Project
